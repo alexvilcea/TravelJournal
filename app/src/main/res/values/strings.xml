@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TravelJournal</string>
+    <string name="imageUrl1"><![CDATA[https://www.slh.com/globalassets/experiences/heros/private-island-hero.jpg?width=1024]]></string>
+    <string name="imageUrl2"><![CDATA[https://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1487894690/colosseum-rome-night-stars-ARENA0217.jpg?itok=HhQWfoAe]]></string>
+    <string name="imageUrl3"><![CDATA[https://d2z6c3c3r6k4bx.cloudfront.net/uploads/event/logo/1053664/3d32524b03040a6202008072a8f24b6a.jpg]]></string>
+    <string name="imageUrl4"><![CDATA[https://i.ytimg.com/vi/_FYKIhJZdaI/maxresdefault.jpg]]></string>
+    <string name="imageUrl5"><![CDATA[https://peiwc-test1445460803.netdna-ssl.com/wp-content/uploads/2016/02/san-francisco-is-americas-snobbiest-city-according-to-the-rest-of-the-country.jpg]]></string>
+    <string name="imageUrl6"><![CDATA[https://midl.amsterdam/wp-content/uploads/2017/12/Damsko-1.jpg]]></string>
+    <string name="mytripsActivity_title">My Trips</string>
+
+    //navigationBarStrings
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
